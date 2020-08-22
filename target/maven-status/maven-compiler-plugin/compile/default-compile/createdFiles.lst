@@ -1,0 +1,4 @@
+com\wipro\SpringBootRDS\controller\BookController.class
+com\wipro\SpringBootRDS\service\BookRepo.class
+com\wipro\SpringBootRDS\SpringBootRdsApplication.class
+com\wipro\SpringBootRDS\model\Books.class
